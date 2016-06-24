@@ -1,23 +1,27 @@
 #Online Store App
 
-Simple Online Store Application 
+Simple Online Store Application Build for Learning purpose.
 
 
 ##TODO List
 
+1. Add Resource Folder tools and Resource will be using Like Bootstrap and etc.
+2. Mock-up Design for the Homepage
+3.
 
 
 
-##BUG
-
-
-
-##QUESTIONS
+###BUG
 
 
 
 
-#### Big Thanks to JA ORTIZ!
+###Notes and Resource
+
+1. Mark Up Languge We will be Using on Documentation [Markdown](https://guides.github.com/features/mastering-markdown/)
+
+
+###### Big Thanks to JA ORTIZ! and FreeCodeCamp Zamboanga City
 
 
 
