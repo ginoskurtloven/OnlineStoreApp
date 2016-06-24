@@ -5,8 +5,8 @@ Simple Online Store Application Build for Learning purpose.
 
 ##TODO List
 
-1. Add Resource Folder tools and Resource will be using Like Bootstrap and etc.
-2. Mock-up Design for the Homepage.
+- [ ] Project Scope and Documentation.
+- [ ] Mock Up Design Stage.
 
 
 
